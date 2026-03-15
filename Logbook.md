@@ -15,3 +15,9 @@
 | 17.02.2026 |	2	| Completed Booking System Phase 2 and wrote the report |	Identified vulnerabilities in the booking system and documented them in the report |
 | 01.03.2026	| 3	| Completed Booking System Phase 3 and wrote the report	|  Identified vulnerabilities in the booking system and documented them in the report |
 | 11.03.2026	| 2	| Completed Booking System Phase 4	| Gained experience in data privacy compliance by applying GDPR principles |
+| 12.03.2026 | 3.5 | Labs on SQL Injection | Completed 2 Labs |
+| 12.03.2026 | 2.5 | Labs on XSS | Completed 2 Labs |
+| 12.03.2026 | 2 | Lab on CSRF | Completed 1 Lab |
+| 13.03.2026 | 5.5 | Labs on path traversal and access control | Completed 3 Labs |
+| 14.03.2026 | 6 | Labs on Access control and Authentication | Completed 3 Labs |
+| 15.03.2026 | 5.5 | Portswigger Labs | Completed 3 Labs |
