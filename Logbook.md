@@ -21,3 +21,4 @@
 | 13.03.2026 | 5.5 | Labs on path traversal and access control | Completed 3 Labs |
 | 14.03.2026 | 6 | Labs on Access control and Authentication | Completed 3 Labs |
 | 15.03.2026 | 5.5 | Portswigger Labs | Completed 3 Labs |
+| 22.03.2026 | 1.5 | Writing final report | Completed final reprot |
